@@ -15,7 +15,7 @@
     "ffmpeg": "0.0.4",
     "ffmpeg-static": "^4.2.3",
     "give-me-a-joke": "^0.3.2",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "one-liner-joke": "^1.2.0",
     "opusscript": "0.0.7",
     "pornsearch": "^2.4.3",
